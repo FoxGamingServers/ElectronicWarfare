@@ -1,2 +1,16 @@
-Test
-jetfox is a real m8
+Investigate different functionalities to add
+	Missile Jammer
+	Radio Jammer
+	IR Jammer
+	Hacking Vehicles
+		Shut down engines
+		cause misfires
+	Hacking UAVS
+		gain control, etc
+	Hacking other jammers in proximity to disable
+	Duke Jammer in hummers for IEDs
+Items to add
+	Missile Jammer
+	Radio Jammer (tower or human placed)
+	IR Jammer
+	IR Floodlight
